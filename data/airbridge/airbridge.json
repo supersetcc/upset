@@ -1,0 +1,16 @@
+{
+	"file": "data/airbridge/airbridge.csv",
+	"name": "Airbridge Data",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 36 }
+	],
+    "author": "Alexander Lex",
+    "description": "A collection of simpsons characters and their attributes.",
+    "source": "http://www.thesimpsons.com/"
+
+}
